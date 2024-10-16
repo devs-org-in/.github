@@ -1,4 +1,4 @@
-Welcome to **Devs Org**! 
+Welcome to **Developer's Organization**! 
 
 ## Our Mission
 
