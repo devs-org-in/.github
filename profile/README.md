@@ -14,13 +14,12 @@ At Devs Org, our mission is to build open-source, useful tools powered by open-s
 
 We welcome contributions from everyone. If you're interested in helping us build these tools, feel free to fork the repository and submit pull requests. Whether you're a developer, designer, or just passionate about AI, your contributions are valuable.
 
-<h3 align="center">Follow Us</h1>
-<div align="center">
+## Languages & Tools
+<p align="left">
+  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,androidstudio,flutter,arduino,html,css,js,php,bootstrap,react,vue,redux,materialui,nodejs,express,firebase,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="programming languages" />
+</p>
 
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/company/devs-org-in/)
-  [![X](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/devs_org_in)
-  
-</div>
+
 
 ## Get Involved
 
@@ -30,3 +29,8 @@ We welcome contributions from everyone. If you're interested in helping us build
 ## License
 
 All our projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Follow Us
+
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/company/devs-org-in/)
+  [![X](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/devs_org_in)
