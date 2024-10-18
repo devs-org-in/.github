@@ -14,6 +14,14 @@ At Devs Org, our mission is to build open-source, useful tools powered by open-s
 
 We welcome contributions from everyone. If you're interested in helping us build these tools, feel free to fork the repository and submit pull requests. Whether you're a developer, designer, or just passionate about AI, your contributions are valuable.
 
+<h3 align="center">Follow Us</h1>
+<div align="center">
+
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/company/devs-org-in/)
+  [![X](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/devs_org_in)
+  
+</div>
+
 ## Get Involved
 
 - Check out our [projects](https://github.com/devs-org-in) to see what we're working on.
